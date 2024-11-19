@@ -1,6 +1,6 @@
 // Texte für die einzelnen Türen
 const doorTexts = [
-    "Heute gehen wir Pizza essen mit Salat und Nachtisch!",
+    "Heute gehen wir Pizza essen mit Salat !",
     "Mach einen Spaziergang im Schnee!",
     "Es gibt heiße Schokolade für alle!",
     "Heute ist Basteltag: Wir machen Weihnachtsschmuck.",
